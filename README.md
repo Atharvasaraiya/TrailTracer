@@ -2,7 +2,7 @@
 <p>Discover pathfinding algorithms on real-world maps.</p>
 
 <h2 align="left">
-    <a href="https://github.com/Atharvasaraiya">
+    <a href="https://trail-tracer.vercel.app/">
         <b>Dive in!</b>
     </a>
 </h2>
